@@ -1,0 +1,20 @@
+#Diretório de saída do Maven
+/target/
+
+#Arquivos de configuração do eclipse
+.classpath
+.projet
+.settings/
+
+#Arquivos de compilação do Java
+*.class
+
+#Relatórios e saída do teste
+/test-output/
+cucumber-reports/
+extends-report/
+
+#Logs e arquivos temporários
+logs/
+*.log
+*.tmp
